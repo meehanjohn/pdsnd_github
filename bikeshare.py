@@ -227,7 +227,7 @@ def user_stat_plot(df):
             plt.xlabel('Age (Years)')
             plt.ylabel('Trip Duration (Minutes)')
 
-            plt.title("Trip Duration v. Rider Age Plot")
+            plt.title("Trip Duration v. Rider Age")
             plt.legend()
             plt.show()
 
