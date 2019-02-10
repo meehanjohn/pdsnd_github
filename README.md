@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+February 10th 2019
 
-### Project Title
-Replace the Project Title
+### Explore Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project explores Bikeshare Data from three US cities:
+* New York City
+* Washington DC
+* Chicago
+
+We use this data to present basic statistics regarding user age, trip duration, etc.
 
 ### Files used
-Include the files used
+bikeshare.py
+
+CSV's for each city are used.
+_See .gitignore_
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I referenced the README from [factory_bot](https://github.com/thoughtbot/factory_bot.git)
+to help write this file.
