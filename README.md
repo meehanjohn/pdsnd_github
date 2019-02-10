@@ -15,6 +15,7 @@ We use this data to present basic statistics regarding user age, trip duration, 
 bikeshare.py
 
 CSV's for each city are used.
+_See .gitignore_
 
 ### Credits
 I referenced the README from [factory_bot](https://github.com/thoughtbot/factory_bot.git)
